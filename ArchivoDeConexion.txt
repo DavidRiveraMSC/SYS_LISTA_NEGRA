@@ -1,0 +1,1 @@
+Data Source = A:\Sistemas Automatizados\Sistema de Lista Negra\Base de Datos\lista.accdb
